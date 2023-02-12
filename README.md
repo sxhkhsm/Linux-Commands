@@ -8,20 +8,20 @@ Syntax: ls [options] [directory]
 cd - This command is used to change the current working directory.
 Syntax: cd [directory]
 
-pwd - This command is used to print the current working directory.
-Syntax: pwd
+mkdir - This command is used to create a new directory.
+Syntax: mkdir [options] [directory]
 
-cat - This command is used to concatenate and display the contents of files.
-Syntax: cat [options] [file]
+rmdir - This command is used to remove an empty directory.
+Syntax: rmdir [options] [directory]
 
-cp - This command is used to copy files and directories.
-Syntax: cp [options] source destination
+echo - This command is used to display a message or the contents of a variable.
+Syntax: echo [options] [string]
 
-mv - This command is used to move or rename files and directories.
-Syntax: mv [options] source destination
+tar - This command is used to create or extract compressed archive files.
+Syntax: tar [options] [file]
 
-rm - This command is used to remove files and directories.
-Syntax: rm [options] [file]
+ping - This command is used to test the connectivity to a network host.
+Syntax: ping [options] [hostname/IP address]
 
 grep - This command is used to search for a pattern in a file or standard input.
 Syntax: grep [options] pattern [file]
