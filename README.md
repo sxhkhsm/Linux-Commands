@@ -1,6 +1,6 @@
 # Linux-Commands
 
-## Here are ten useful Linux commands along with a brief description and syntax for each:
+## Here are some useful Linux commands along with a brief description and syntax:
 
 
 ###  ls:
