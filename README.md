@@ -6,7 +6,7 @@
 ###  ls:
 This command is used to list the files and directories in a directory.
 #### Syntax: 
-  ls [options] [directory]
+    ls [options] [directory]
 
 ### cd:
 This command is used to change the current working directory.
